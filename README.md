@@ -1,19 +1,4 @@
 # Sweeper.c
-
-
-*
-  Minesweeper 
-The provided code is an implementation of the Minesweeper game in C. It defines functions to initialize and manipulate the game grid, place bombs, count surrounding bombs, and allow the player to make moves. The main function orchestrates the game loop, prompting the player to enter row and column coordinates for their moves. If a bomb is encountered, the player loses; otherwise, the game continues until the player either uncovers all non-bomb cells or triggers a bomb. Currently, the gridFinished function is incomplete, which is intended to check if the game is won by searching for remaining blank cells.
-
-
-
-
-
-
-
-
-  
-  
   
 
 
