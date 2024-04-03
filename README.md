@@ -1,8 +1,12 @@
 # Sweeper.c
+
+
 *
   Minesweeper 
   finish  gridFinished function
   print a message if they win 
+
+  
   
   
 
